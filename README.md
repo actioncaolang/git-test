@@ -19,7 +19,7 @@ This project collects graph database related products and cloud services, for ea
 
 | **Name** |  **Introduction**  | **Open source** | **Last updated** |
 |:-----|:--------:|:----------:|:-----------:|
-| [dgraph](https://dgraph.io/) | Dgraph is a horizontally scalable and distributed GraphQL database with a graph backend. It provides ACID transactions, consistent replication, and linearizable reads. It's built from the ground up to perform for a rich set of queries. Being a native GraphQL database, it tightly controls how the data is arranged on disk to optimize for query performance and throughput, reducing disk seeks and network calls in a cluster. | [yes](https://github.com/dgraph-io/dgraph) | 2022-12-07T20:07:32Z |
+| [dgraph](https://dgraph.io/) | Dgraph is a horizontally scalable and distributed GraphQL database with a graph backend. It provides ACID transactions, consistent replication, and linearizable reads. It's built from the ground up to perform for a rich set of queries. Being a native GraphQL database, it tightly controls how the data is arranged on disk to optimize for query performance and throughput, reducing disk seeks and network calls in a cluster. | [yes](https://github.com/dgraph-io/dgraph) | 2022-12-08T18:50:14Z |
 
 ___
 ## Contributors
